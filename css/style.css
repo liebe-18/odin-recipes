@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    background-color: rgb(221, 180, 254);
+    color: #000;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
